@@ -7,7 +7,7 @@ First, run the server:
 
 ```bash
 cd server
-npm i
+npm install
 npm run server
 ```
 
@@ -15,7 +15,7 @@ Second, run the client:
 
 ```bash
 cd client
-npm i
+npm install
 npm start
 ```
 
