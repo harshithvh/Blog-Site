@@ -14,6 +14,10 @@ app.use(cors());
 
 app.use('/posts', postRoutes);
 
+app.get('/', (req, res) => {
+  res.send('Hello!, Start Blogging')
+});
+
 const CONNECTION_URL = 'mongodb+srv://db-Test:test123@cluster0.jsigv.mongodb.net/node-tuts';
 const PORT = process.env.PORT|| 5000;
 
