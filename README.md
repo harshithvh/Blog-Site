@@ -17,6 +17,8 @@ This project was built using these technologies.
 
 **📃 Markdown Support**
 
+**📚 Supports multiple authors**
+
 **✏️ Easy to customize and write posts of your own**
 
 **🎨 Styled with Material UI**
